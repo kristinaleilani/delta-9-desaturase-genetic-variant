@@ -206,7 +206,7 @@ d2[d2$locus == "chr9_4034119_T_C", ] # Keppel is all T
 
 
 ###--------------------------------  Visualize the spatial distribution of a genotype-environment association. 
-# Load the shoreline
+# Load the shoreline (download from www.ngdc.noaa.gov/mgg/shorelines)
 if (!rgeosStatus()) gpclibPermit()
 gshhs.f.b <- "gshhg-bin-2.3.6/gshhs_f.b"
 sf1 <- getRgshhsMap(gshhs.f.b, xlim = c(142, 152), ylim = c(-24, -11)) %>%
