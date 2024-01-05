@@ -14,7 +14,7 @@ Figure 2:
 Gene_expression.R = DESeq2 volcano plots
 
 Figure 3:
-Gene_expression.R = Comparison of delta-9 desaturase expression between Orpheus and Keppel corals in a reciprocal transplant experiment
+Gene_expression.R = Comparison of delta-9 desaturase expression between Orpheus and Keppel corals in a reciprocal transplant experiment.
 Growth.R = Comparison of growth between Orpheus and Keppel corals in a reciprocal transplant experiment
 
 Figure 4:
